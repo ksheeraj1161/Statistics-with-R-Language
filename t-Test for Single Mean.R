@@ -1,3 +1,6 @@
+#  A random sample of 10 boys with the following IQs: 70, 120, 110, 101, 88, 83, 95, 98, 107, and 100. 
+# Write down the R programming code to test whether the data support the assumption of a population mean IQ of 100 at 5 % level of significance.
+
 > print("H0 := x0=Mu")
 [1] "H0 := x0=Mu"
 > print("H1 := x0!=Mu")
@@ -21,3 +24,4 @@
 + }
 [1] "H0 is accepted and H1 is rejected"
 > t.test(x,mu=Mu)
+
