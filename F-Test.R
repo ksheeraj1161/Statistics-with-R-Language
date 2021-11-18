@@ -1,3 +1,8 @@
+# Two random samples drawn from two normal populations with the following observations.
+#Sample I : 21 24 25 26 27 
+#Sample II : 22 27 28 30 31 36
+# Write down the R programming code to test whether the two populations have the same variance at 5 % level of significance
+
 > > print("H0 := s1=s2")
 [1] "H0 := s1=s2"
 > print("H1 := s1!=s2")
