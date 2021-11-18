@@ -1,3 +1,8 @@
+# The following data relate to the marks obtained by 11 students in two sets, one held at the beginning of a year and the other at the end of the year after intensive coaching. 
+# Do the data indicate that the students have benefited by coaching at 5 % level of significance?
+#Test I : 19 23 16 24 17 18 20 18 21 19 20 
+#Test II : 17 24 20 24 20 22 20 20 18 22 19
+
 > print("H0 := x1=x2")
 [1] "H0 := x1=x2"
 > print("H1 := x1!=x2")
