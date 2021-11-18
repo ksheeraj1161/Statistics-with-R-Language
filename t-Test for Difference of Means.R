@@ -1,3 +1,6 @@
+# The mean height and the standard deviation height of 8 randomly chosen soldiers are 166.9 cm and 8.29 cm respectively. The corresponding values of 6 randomly chosen sailors are 170.3 cm and 8.50 cm respectively. 
+# Write down the R programming code to test whether the soldiers are shorter than the sailors on the basis of average height.
+
 > print("H0 := x1=x2")
 [1] "H0 := x1=x2"
 > print("H1 := x1!=x2")
